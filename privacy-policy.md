@@ -1,6 +1,6 @@
 Privacy Policy
 
-Volodymyr Boiko built the FitFlow app as a Freemium app. This SERVICE is provided by Volodymyr Boiko at no cost and is intended for use as is.
+Roman Shevchenko built the FitFlow app as a Freemium app. This SERVICE is provided by Roman Shevchenko at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
